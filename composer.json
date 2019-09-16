@@ -1,0 +1,13 @@
+{
+    "name": "azerborodach/angry-exception",
+    "description": "Исключение? Не думаю.",
+    "type": "composer-plugin",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Alexander Bagyshov",
+            "email": "ayax2005@ya.ru"
+        }
+    ],
+    "require": {}
+}
